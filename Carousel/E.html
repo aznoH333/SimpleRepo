@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Carousel test</title>
+    <link rel="stylesheet" href="owl.carousel2-2.2.1/dist/assets/owl.carousel.css">
+    <link rel="stylesheet" href="owl.carousel2-2.2.1/dist/assets/owl.theme.default.css">
+    <link rel="stylesheet" href="CSS.css">
+</head>
+<body>
+
+    <div id="main">
+        <h1 class="centered">Carousel test</h1>
+        <div class="owl-carousel owl-theme" id="slider1">
+            <div class="item">Hello world!</div>
+            <div class="item">Ordinary text</div>
+            <div class="item smallText"> Small text</div>
+            <div class="item largeText">Large text</div>
+            <div class="item blue">Blue</div>
+        </div>
+    </div>
+
+    <!-- scripts -->
+    <script src="owl.carousel2-2.2.1/docs/assets/vendors/jquery.min.js"></script>
+    <script src="owl.carousel2-2.2.1/dist/owl.carousel.js"></script>
+    <script type="text/javascript">
+        $('.owl-carousel').owlCarousel({
+            loop: true,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 5
+                }
+            }
+        })
+    </script>
+</body>
+</html>

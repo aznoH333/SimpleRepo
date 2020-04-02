@@ -1,0 +1,42 @@
+/* vars */
+/* ids & stuff */
+body {
+  font-family: Calibri;
+  display: flex;
+  justify-content: center;
+  margin: 100px;
+  background-color: #dbdbdb;
+  font-size: 20px;
+  align-items: center; }
+
+#main {
+  background-color: #ecf0f1;
+  width: 800px;
+  height: 400px; }
+
+#slider1 {
+  margin-top: 90px; }
+
+/* classes */
+.item {
+  background-color: #bdc3c7;
+  height: 90px;
+  width: 150px;
+  border-radius: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.centered {
+  text-align: center; }
+
+.smallText {
+  font-size: 12px; }
+
+.largeText {
+  font-size: 50px; }
+
+.blue {
+  background-color: #008CBA; }
+
+/*# sourceMappingURL=CSS.css.map */
