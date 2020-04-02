@@ -20,6 +20,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -29,6 +30,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pocitac\WebstormProjects\Carousel2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Pocitac\WebstormProjects\Carousel2" />
     </key>
@@ -56,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585838354347</updated>
       <workItem from="1585838355652" duration="2302000" />
-      <workItem from="1585843404880" duration="1593000" />
+      <workItem from="1585843404880" duration="2346000" />
     </task>
     <servers />
   </component>
