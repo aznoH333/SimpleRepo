@@ -1,0 +1,24 @@
+$background : #829CBC;
+$primary : #6290C8;
+$secondary : #376996;
+$button-color : #EB4511;
+
+.testBox{
+  background-color: $primary;
+}
+
+.testBox-2{
+  background-color: $secondary;
+}
+
+body{
+  background-color: $background;
+}
+
+.jumbotron{
+  background-color: $secondary;
+}
+
+.btn-1{
+  background-color: $button-color;
+}
